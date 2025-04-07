@@ -14356,11 +14356,6 @@
 "SCCriteria":"launch_content",
 "exitNormalIfCompleted":false
 }
-,"eventVideos":[{
-"id":"si8682",
-"uri":"vr/Vi9915.mp4"
-}
-]
 ,"toc":[{
 "id":"Slide1417",
 "title":"Registration slide"
