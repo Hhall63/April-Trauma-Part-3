@@ -2151,8 +2151,8 @@ vb:[-2,-2,-1,-1]
 Slide390:{
 lb:'',
 id:390,
-from:62207,
-to:62296,
+from:1,
+to:90,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -2210,11 +2210,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-1607:{
+1566:{
 ts:''
 }
 ,
-1566:{
+1607:{
 ts:''
 }
 
@@ -2243,9 +2243,9 @@ uid:390,
 dn:'Slide390',
 visible:'1'
 },
-StAd24:{
-from:62297,
-to:62491,
+StAd0:{
+from:91,
+to:285,
 src:'ar/11046.mp3',
 du:6524,
 saup:[{
@@ -8846,6 +8846,14 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
+1198:{
+ts:'{"effect":1,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+1101:{
+ts:''
+}
+,
 447:{
 ts:''
 }
@@ -8864,14 +8872,6 @@ ts:''
 ,
 483:{
 ts:''
-}
-,
-1101:{
-ts:''
-}
-,
-1198:{
-ts:'{"effect":1,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
 1407:{
@@ -8904,9 +8904,9 @@ uid:1417,
 dn:'Slide1417',
 visible:'1'
 },
-StAd25:{
-from:62297,
-to:62601,
+StAd1:{
+from:991,
+to:1295,
 src:'ar/11049.mp3',
 du:10196,
 saup:[{
@@ -11780,9 +11780,9 @@ uid:1966,
 dn:'Slide1966',
 visible:'1'
 },
-StAd26:{
-from:62297,
-to:62668,
+StAd2:{
+from:2935,
+to:3306,
 src:'ar/11052.mp3',
 du:12428,
 saup:[{
@@ -19498,8 +19498,8 @@ visible:'1'
 si3277:{
 name:'Multi_Column_Text_1',
 type:1268,
-from:62297,
-to:62845,
+from:8950,
+to:9498,
 rp:0,
 rpa:0,
 mdi:'si3277c',
@@ -19670,8 +19670,8 @@ vb:[-1,-1,1,1]
 si3285:{
 name:'Text_Column_Group_1',
 type:1268,
-from:62297,
-to:62845,
+from:8950,
+to:9498,
 rp:0,
 rpa:0,
 mdi:'si3285c',
@@ -20153,8 +20153,8 @@ vb:[-1,-1,2,2]
 si3323:{
 name:'Button_509',
 type:29,
-from:62297,
-to:62845,
+from:8950,
+to:9498,
 rp:0,
 rpa:0,
 mdi:'si3323c',
@@ -23327,8 +23327,8 @@ vb:[-2,-2,-1,-1]
 Slide1418:{
 lb:'Objectives',
 id:1418,
-from:62297,
-to:62845,
+from:8950,
+to:9498,
 iols:0,
 i360qs:false,
 sdu:18.3,
@@ -33146,10 +33146,10 @@ uid:11196,
 dn:'Slide11196',
 visible:'1'
 },
-StAd28:{
-from:62846,
-to:78778,
-src:'ar/StAd27.mp3',
+StAd4:{
+from:9499,
+to:25431,
+src:'ar/StAd3.mp3',
 du:531206,
 saup:[{
 sn:3276,
@@ -36175,9 +36175,9 @@ uid:3204,
 dn:'Slide3204',
 visible:'1'
 },
-StAd29:{
-from:62846,
-to:63068,
+StAd5:{
+from:31096,
+to:31318,
 src:'ar/11123.mp3',
 du:7436,
 saup:[{
@@ -39192,9 +39192,9 @@ uid:6509,
 dn:'Slide6509',
 visible:'1'
 },
-StAd30:{
-from:62846,
-to:63068,
+StAd6:{
+from:33157,
+to:33379,
 src:'ar/11123.mp3',
 du:7436,
 saup:[{
@@ -42209,9 +42209,9 @@ uid:13525,
 dn:'Slide13525',
 visible:'1'
 },
-StAd31:{
-from:62846,
-to:63068,
+StAd7:{
+from:35218,
+to:35440,
 src:'ar/11123.mp3',
 du:7436,
 saup:[{
@@ -45226,9 +45226,9 @@ uid:13875,
 dn:'Slide13875',
 visible:'1'
 },
-StAd32:{
-from:62846,
-to:63929,
+StAd8:{
+from:37279,
+to:38362,
 src:'ar/12769.mp3',
 du:36140,
 saup:[{
@@ -45733,8 +45733,8 @@ vb:[-1,-1,2,2]
 si12281:{
 name:'Image_Grid_1',
 type:1268,
-from:57188,
-to:58678,
+from:37279,
+to:38769,
 rp:0,
 rpa:0,
 mdi:'si12281c',
@@ -45905,8 +45905,8 @@ vb:[-1,-1,1,1]
 si12289:{
 name:'Image_Grid_Group_1',
 type:1268,
-from:57188,
-to:58678,
+from:37279,
+to:38769,
 rp:0,
 rpa:0,
 mdi:'si12289c',
@@ -46078,8 +46078,8 @@ vb:[-1,-1,1,1]
 si12297:{
 name:'Screenshot_2025-04-06_155609',
 type:15,
-from:57188,
-to:58678,
+from:37279,
+to:38769,
 rp:0,
 rpa:0,
 mdi:'si12297c',
@@ -50257,8 +50257,8 @@ vb:[-2,-2,-1,-1]
 Slide11174:{
 lb:'Review',
 id:11174,
-from:57188,
-to:58678,
+from:37279,
+to:38769,
 iols:0,
 i360qs:false,
 sdu:49.7,
@@ -50394,8 +50394,8 @@ visible:'1'
 si12809:{
 name:'Image_14',
 type:1268,
-from:62846,
-to:66373,
+from:38770,
+to:42297,
 rp:0,
 rpa:0,
 mdi:'si12809c',
@@ -50562,8 +50562,8 @@ vb:[-1,-1,1,1]
 si12817:{
 name:'Image_Group_14',
 type:1268,
-from:62846,
-to:66373,
+from:38770,
+to:42297,
 rp:0,
 rpa:0,
 mdi:'si12817c',
@@ -50735,8 +50735,8 @@ vb:[-1,-1,1,1]
 si12825:{
 name:'Screenshot_2025-04-06_155619',
 type:15,
-from:62846,
-to:66373,
+from:38770,
+to:42297,
 rp:0,
 rpa:0,
 mdi:'si12825c',
@@ -51305,15 +51305,15 @@ vb:[-1,-1,716,46]
 },
 si12948Ad:{
 src:'ar/14569.mp3',
-from:62846,
+from:38770,
 du:83187,
-to:65340
+to:41264
 },
 si12948:{
 name:'Screenshot_2025-04-06_155656',
 type:15,
-from:62846,
-to:66373,
+from:38770,
+to:42297,
 rp:0,
 rpa:0,
 mdi:'si12948c',
@@ -53585,8 +53585,8 @@ vb:[-2,-2,-1,-1]
 Slide12780:{
 lb:'Review 2',
 id:12780,
-from:62846,
-to:66373,
+from:38770,
+to:42297,
 iols:0,
 i360qs:false,
 sdu:117.6,
@@ -53752,8 +53752,8 @@ visible:'1'
 si4608:{
 name:'ResponsiveContainer_29',
 type:1268,
-from:66374,
-to:66463,
+from:42298,
+to:42387,
 rp:0,
 rpa:0,
 mdi:'si4608c',
@@ -56864,8 +56864,8 @@ vb:[-4,-4,2,2]
 si4768:{
 name:'Caption_1',
 type:612,
-from:66374,
-to:66463,
+from:42298,
+to:42387,
 rp:0,
 rpa:0,
 mdi:'si4768c',
@@ -58280,8 +58280,8 @@ vb:[-4,-4,2,2]
 si4813:{
 name:'Caption_2',
 type:612,
-from:66374,
-to:66463,
+from:42298,
+to:42387,
 rp:0,
 rpa:0,
 mdi:'si4813c',
@@ -58530,8 +58530,8 @@ vb:[-4,-4,2,2]
 Slide4563:{
 lb:'Multiple choice 1',
 id:4563,
-from:66374,
-to:66463,
+from:42298,
+to:42387,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -58587,9 +58587,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide4563q2',
-qnq:2,
-pa:66419,
+qs:'Slide4563q0',
+qnq:0,
+pa:42341,
 iph:{
 4598:{
 ts:'',
@@ -58626,7 +58626,7 @@ uid:4563,
 dn:'Slide4563',
 visible:'1'
 },
-Slide4563q2:{
+Slide4563q0:{
 noa:2,
 qt:'',
 it:false,
@@ -58638,7 +58638,7 @@ qst:3,
 ish:true,
 ips:false,
 hma:false,
-qnq:2,
+qnq:0,
 sn:'Slide4563',
 oid:'Quiz_20254819375',
 iid:'4584',
@@ -58653,7 +58653,7 @@ sfrc:false,
 frc:'',
 ifc:[],
 ofct:false,
-ao:[],
+ao:['si4744c:0','si4756c:1','si5129c:2','si5141c:3'],
 qtc:'',
 JSONTT_4:[],
 JSONTT_5:[],
@@ -58672,8 +58672,8 @@ cal:['si4744']
 si5198:{
 name:'ResponsiveContainer_33',
 type:1268,
-from:66464,
-to:66553,
+from:42388,
+to:42477,
 rp:0,
 rpa:0,
 mdi:'si5198c',
@@ -61784,8 +61784,8 @@ vb:[-4,-4,2,2]
 si5355:{
 name:'Caption_4',
 type:612,
-from:66464,
-to:66553,
+from:42388,
+to:42477,
 rp:0,
 rpa:0,
 mdi:'si5355c',
@@ -63200,8 +63200,8 @@ vb:[-4,-4,2,2]
 si5400:{
 name:'Caption_5',
 type:612,
-from:66464,
-to:66553,
+from:42388,
+to:42477,
 rp:0,
 rpa:0,
 mdi:'si5400c',
@@ -63450,8 +63450,8 @@ vb:[-4,-4,2,2]
 Slide5153:{
 lb:'Multiple choice 2',
 id:5153,
-from:66464,
-to:66553,
+from:42388,
+to:42477,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -63507,9 +63507,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide5153q2',
-qnq:2,
-pa:66509,
+qs:'Slide5153q1',
+qnq:1,
+pa:42431,
 iph:{
 5188:{
 ts:'',
@@ -63546,7 +63546,7 @@ uid:5153,
 dn:'Slide5153',
 visible:'1'
 },
-Slide5153q2:{
+Slide5153q1:{
 noa:2,
 qt:'',
 it:false,
@@ -63558,7 +63558,7 @@ qst:3,
 ish:true,
 ips:false,
 hma:false,
-qnq:2,
+qnq:1,
 sn:'Slide5153',
 oid:'Quiz_20254819375',
 iid:'5174',
@@ -63573,7 +63573,7 @@ sfrc:false,
 frc:'',
 ifc:[],
 ofct:false,
-ao:[],
+ao:['si5331c:0','si5343c:1','si7021c:2','si7033c:3'],
 qtc:'',
 JSONTT_4:[],
 JSONTT_5:[],
@@ -63592,8 +63592,8 @@ cal:['si5343']
 si7090:{
 name:'ResponsiveContainer_45',
 type:1268,
-from:66554,
-to:66643,
+from:42478,
+to:42567,
 rp:0,
 rpa:0,
 mdi:'si7090c',
@@ -67931,8 +67931,8 @@ vb:[-4,-4,2,2]
 si7274:{
 name:'Caption_6',
 type:612,
-from:66554,
-to:66643,
+from:42478,
+to:42567,
 rp:0,
 rpa:0,
 mdi:'si7274c',
@@ -69353,8 +69353,8 @@ vb:[-4,-4,2,2]
 si7319:{
 name:'Caption_7',
 type:612,
-from:66554,
-to:66643,
+from:42478,
+to:42567,
 rp:0,
 rpa:0,
 mdi:'si7319c',
@@ -69603,8 +69603,8 @@ vb:[-4,-4,2,2]
 Slide7045:{
 lb:'Sequence 1',
 id:7045,
-from:66554,
-to:66643,
+from:42478,
+to:42567,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -69662,7 +69662,7 @@ bookmarks:[]
 ,
 qs:'Slide7045q2',
 qnq:2,
-pa:66599,
+pa:42521,
 iph:{
 7080:{
 ts:'',
@@ -79626,10 +79626,10 @@ uid:3132,
 dn:'Slide3132',
 visible:'1'
 },
-StAd34:{
-from:66644,
-to:69020,
-src:'ar/StAd33.mp3',
+StAd10:{
+from:43339,
+to:45715,
+src:'ar/StAd9.mp3',
 du:79313,
 saup:[{
 sn:3156,
@@ -92825,13 +92825,13 @@ dsType:1,
 dsWidth:80
 }
 ,
-slideAudios:'StAd24,StAd25,StAd26,StAd28,StAd29,StAd30,StAd31,StAd32,StAd34',
+slideAudios:'StAd0,StAd1,StAd2,StAd4,StAd5,StAd6,StAd7,StAd8,StAd10',
 vestr:0,
 vim:0,
 slides:'Slide1417,Slide1966,Slide3036,Slide1418,Slide3276,Slide11196,Slide3204,Slide6509,Slide13525,Slide13875,Slide11174,Slide12780,Slide4563,Slide5153,Slide7045,Slide3180,Slide3156,Slide3132,Slide3084,Slide11045,Slide4858',
 questionSlides:'Slide4563,Slide5153,Slide7045',
 slideVideos:['si8682'],
-questions:'Slide4563q2,Slide5153q2,Slide7045q2',
+questions:'Slide4563q0,Slide5153q1,Slide7045q2',
 autoplay:false,
 preloader:true,
 preloaderFileName:'dr/014572.png',
@@ -92839,7 +92839,8 @@ preloaderPercentage:100,
 pprtd:false,
 peon:false,
 fadeInAtStart:0,
-fadeOutAtEnd:0
+fadeOutAtEnd:0,
+endAction:'cp.closeProject();'
 },
 borderProperties:{
 hasBorder:false
@@ -92871,7 +92872,7 @@ enableNavigation:true,
 tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1417,"isQuizSlide":false,"label":"Registration slide","slideVisited":false,"type":"slide","id":"Slide1417"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1966,"isQuizSlide":false,"label":"Tech Notes","slideVisited":false,"type":"slide","id":"Slide1966"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3036,"isQuizSlide":false,"label":"Scope of Practice Statement","slideVisited":false,"type":"slide","id":"Slide3036"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1418,"isQuizSlide":false,"label":"Objectives","slideVisited":false,"type":"slide","id":"Slide1418"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3276,"isQuizSlide":false,"label":"Objective 1","slideVisited":false,"type":"slide","id":"Slide3276"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11196,"isQuizSlide":false,"label":"Intro to protocols","slideVisited":false,"type":"slide","id":"Slide11196"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3204,"isQuizSlide":false,"label":"Selective Spinal Restriction Review","slideVisited":false,"type":"slide","id":"Slide3204"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":6509,"isQuizSlide":false,"label":"MC-1 review","slideVisited":false,"type":"slide","id":"Slide6509"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":13525,"isQuizSlide":false,"label":"MC-2 review","slideVisited":false,"type":"slide","id":"Slide13525"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":13875,"isQuizSlide":false,"label":"Sequence 1 review","slideVisited":false,"type":"slide","id":"Slide13875"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11174,"isQuizSlide":false,"label":"Review","slideVisited":false,"type":"slide","id":"Slide11174"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":12780,"isQuizSlide":false,"label":"Review 2","slideVisited":false,"type":"slide","id":"Slide12780"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":4563,"isQuizSlide":true,"label":"Multiple choice 1","slideVisited":false,"type":"slide","id":"Slide4563"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5153,"isQuizSlide":true,"label":"Multiple choice 2","slideVisited":false,"type":"slide","id":"Slide5153"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":7045,"isQuizSlide":true,"label":"Sequence 1","slideVisited":false,"type":"slide","id":"Slide7045"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3180,"isQuizSlide":false,"label":"Master Slide - 6","slideVisited":false,"type":"slide","id":"Slide3180"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3156,"isQuizSlide":false,"label":"Obj-2","slideVisited":false,"type":"slide","id":"Slide3156"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3132,"isQuizSlide":false,"label":"Master Slide - 4","slideVisited":false,"type":"slide","id":"Slide3132"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3084,"isQuizSlide":false,"label":"Master Slide - 2","slideVisited":false,"type":"slide","id":"Slide3084"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11045,"isQuizSlide":false,"label":"Slide exit","slideVisited":false,"type":"slide","id":"Slide11045"},{"parentId":null,"isVisible":true,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":4858,"isQuizSlide":true,"label":"Result 1","slideVisited":false,"type":"slide","id":"Slide4858"}],"tocGeneratedOnPreviewClick":false,"preserveSlidesOrder":true},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":true,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
 },
 usedFonts:{
-usedFonts:'["Georgia","Arial"]'
+usedFonts:'["Arial","Georgia"]'
 },
 trecs:[{
 link:1417,
@@ -92887,7 +92888,7 @@ text:['""']
 }
 ,{
 link:1418,
-text:['""']
+text:[]
 }
 ,{
 link:3276,
@@ -92915,11 +92916,11 @@ text:['""']
 }
 ,{
 link:11174,
-text:['""','""']
+text:['""']
 }
 ,{
 link:12780,
-text:['""','""']
+text:[]
 }
 ,{
 link:4563,
@@ -93290,15 +93291,6 @@ ipiv:{
 
 }
 ,{
-ip:'dr/07804.png',
-ipiv:{
-430:1,
-768:1,
-1366:1
-}
-
-}
-,{
 ip:'dr/08206.jpg',
 ipiv:{
 430:1,
@@ -93418,7 +93410,7 @@ resources:['dr/01100.png','dr/04657.svg','dr/0504.svg']
 ,{
 slideID:14,
 ResourceList:{
-resources:['dr/0504.svg','dr/07804.png']
+resources:['dr/0504.svg']
 }
 
 }
@@ -93489,7 +93481,7 @@ resources:['ar/11052.mp3']
 ,{
 slideID:6,
 ResourceList:{
-resources:['ar/StAd27.mp3']
+resources:['ar/StAd3.mp3']
 }
 
 }
@@ -93517,7 +93509,7 @@ resources:['ar/14569.mp3']
 ,{
 slideID:18,
 ResourceList:{
-resources:['ar/StAd33.mp3']
+resources:['ar/StAd9.mp3']
 }
 
 }
@@ -93533,11 +93525,11 @@ cp.model.audios=[
 'ar/11046.mp3',
 'ar/11049.mp3',
 'ar/11052.mp3',
-'ar/StAd27.mp3',
+'ar/StAd3.mp3',
 'ar/11123.mp3',
 'ar/12769.mp3',
 'ar/14569.mp3',
-'ar/StAd33.mp3'
+'ar/StAd9.mp3'
 ];
 
 cp.initVariables = function(){
