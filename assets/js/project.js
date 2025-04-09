@@ -2151,8 +2151,8 @@ vb:[-2,-2,-1,-1]
 Slide390:{
 lb:'',
 id:390,
-from:57098,
-to:57187,
+from:57737,
+to:57826,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -2243,9 +2243,9 @@ uid:390,
 dn:'Slide390',
 visible:'1'
 },
-StAd11:{
-from:57188,
-to:57382,
+StAd22:{
+from:57827,
+to:58021,
 src:'ar/11046.mp3',
 du:6524,
 saup:[{
@@ -8904,9 +8904,9 @@ uid:1417,
 dn:'Slide1417',
 visible:'1'
 },
-StAd12:{
-from:57188,
-to:57492,
+StAd23:{
+from:57827,
+to:58131,
 src:'ar/11049.mp3',
 du:10196,
 saup:[{
@@ -11780,9 +11780,9 @@ uid:1966,
 dn:'Slide1966',
 visible:'1'
 },
-StAd13:{
-from:57188,
-to:57559,
+StAd24:{
+from:57827,
+to:58198,
 src:'ar/11052.mp3',
 du:12428,
 saup:[{
@@ -33138,10 +33138,10 @@ uid:11196,
 dn:'Slide11196',
 visible:'1'
 },
-StAd15:{
-from:57737,
-to:73669,
-src:'ar/StAd14.mp3',
+StAd26:{
+from:57827,
+to:73759,
+src:'ar/StAd25.mp3',
 du:531206,
 saup:[{
 sn:3276,
@@ -36167,9 +36167,9 @@ uid:3204,
 dn:'Slide3204',
 visible:'1'
 },
-StAd16:{
-from:57737,
-to:57959,
+StAd27:{
+from:57827,
+to:58049,
 src:'ar/11123.mp3',
 du:7436,
 saup:[{
@@ -39184,9 +39184,9 @@ uid:6509,
 dn:'Slide6509',
 visible:'1'
 },
-StAd17:{
-from:57737,
-to:57959,
+StAd28:{
+from:57827,
+to:58049,
 src:'ar/11123.mp3',
 du:7436,
 saup:[{
@@ -42201,9 +42201,9 @@ uid:13525,
 dn:'Slide13525',
 visible:'1'
 },
-StAd18:{
-from:57737,
-to:57959,
+StAd29:{
+from:57827,
+to:58049,
 src:'ar/11123.mp3',
 du:7436,
 saup:[{
@@ -45218,9 +45218,9 @@ uid:13875,
 dn:'Slide13875',
 visible:'1'
 },
-StAd19:{
-from:57737,
-to:58820,
+StAd30:{
+from:57827,
+to:58910,
 src:'ar/12769.mp3',
 du:36140,
 saup:[{
@@ -79618,10 +79618,10 @@ uid:3132,
 dn:'Slide3132',
 visible:'1'
 },
-StAd21:{
-from:57737,
-to:60113,
-src:'ar/StAd20.mp3',
+StAd32:{
+from:57827,
+to:60203,
+src:'ar/StAd31.mp3',
 du:79313,
 saup:[{
 sn:3156,
@@ -92372,7 +92372,7 @@ vt:9
 var351var351:{
 vid:351,
 name:'Project.ShowPlaybar',
-vv:1,
+vv:0,
 vvt:0,
 vt:9
 },
@@ -92817,7 +92817,7 @@ dsType:1,
 dsWidth:80
 }
 ,
-slideAudios:'StAd11,StAd12,StAd13,StAd15,StAd16,StAd17,StAd18,StAd19,StAd21',
+slideAudios:'StAd22,StAd23,StAd24,StAd26,StAd27,StAd28,StAd29,StAd30,StAd32',
 vestr:0,
 vim:0,
 slides:'Slide1417,Slide1966,Slide3036,Slide1418,Slide3276,Slide11196,Slide3204,Slide6509,Slide13525,Slide13875,Slide11174,Slide12780,Slide4563,Slide5153,Slide7045,Slide3180,Slide3156,Slide3132,Slide3084,Slide11045,Slide4858',
@@ -92861,7 +92861,7 @@ locale:0
 },
 tocProperties:{
 enableNavigation:true,
-tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1417,"isQuizSlide":false,"label":"Registration slide","slideVisited":false,"type":"slide","id":"Slide1417"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1966,"isQuizSlide":false,"label":"Tech Notes","slideVisited":false,"type":"slide","id":"Slide1966"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3036,"isQuizSlide":false,"label":"Scope of Practice Statement","slideVisited":false,"type":"slide","id":"Slide3036"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1418,"isQuizSlide":false,"label":"Objectives","slideVisited":false,"type":"slide","id":"Slide1418"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3276,"isQuizSlide":false,"label":"Objective 1","slideVisited":false,"type":"slide","id":"Slide3276"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11196,"isQuizSlide":false,"label":"Intro to protocols","slideVisited":false,"type":"slide","id":"Slide11196"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3204,"isQuizSlide":false,"label":"Selective Spinal Restriction Review","slideVisited":false,"type":"slide","id":"Slide3204"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":6509,"isQuizSlide":false,"label":"MC-1 review","slideVisited":false,"type":"slide","id":"Slide6509"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":13525,"isQuizSlide":false,"label":"MC-2 review","slideVisited":false,"type":"slide","id":"Slide13525"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":13875,"isQuizSlide":false,"label":"Sequence 1 review","slideVisited":false,"type":"slide","id":"Slide13875"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11174,"isQuizSlide":false,"label":"Review","slideVisited":false,"type":"slide","id":"Slide11174"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":12780,"isQuizSlide":false,"label":"Review 2","slideVisited":false,"type":"slide","id":"Slide12780"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":4563,"isQuizSlide":true,"label":"Multiple choice 1","slideVisited":false,"type":"slide","id":"Slide4563"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5153,"isQuizSlide":true,"label":"Multiple choice 2","slideVisited":false,"type":"slide","id":"Slide5153"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":7045,"isQuizSlide":true,"label":"Sequence 1","slideVisited":false,"type":"slide","id":"Slide7045"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3180,"isQuizSlide":false,"label":"Master Slide - 6","slideVisited":false,"type":"slide","id":"Slide3180"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3156,"isQuizSlide":false,"label":"Obj-2","slideVisited":false,"type":"slide","id":"Slide3156"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3132,"isQuizSlide":false,"label":"Master Slide - 4","slideVisited":false,"type":"slide","id":"Slide3132"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3084,"isQuizSlide":false,"label":"Master Slide - 2","slideVisited":false,"type":"slide","id":"Slide3084"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11045,"isQuizSlide":false,"label":"Slide exit","slideVisited":false,"type":"slide","id":"Slide11045"},{"parentId":null,"isVisible":true,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":4858,"isQuizSlide":true,"label":"Result 1","slideVisited":false,"type":"slide","id":"Slide4858"}],"tocGeneratedOnPreviewClick":false,"preserveSlidesOrder":true},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":true,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
+tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1417,"isQuizSlide":false,"label":"Registration slide","slideVisited":false,"type":"slide","id":"Slide1417"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1966,"isQuizSlide":false,"label":"Tech Notes","slideVisited":false,"type":"slide","id":"Slide1966"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3036,"isQuizSlide":false,"label":"Scope of Practice Statement","slideVisited":false,"type":"slide","id":"Slide3036"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1418,"isQuizSlide":false,"label":"Objectives","slideVisited":false,"type":"slide","id":"Slide1418"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3276,"isQuizSlide":false,"label":"Objective 1","slideVisited":false,"type":"slide","id":"Slide3276"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11196,"isQuizSlide":false,"label":"Intro to protocols","slideVisited":false,"type":"slide","id":"Slide11196"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3204,"isQuizSlide":false,"label":"Selective Spinal Restriction Review","slideVisited":false,"type":"slide","id":"Slide3204"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":6509,"isQuizSlide":false,"label":"MC-1 review","slideVisited":false,"type":"slide","id":"Slide6509"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":13525,"isQuizSlide":false,"label":"MC-2 review","slideVisited":false,"type":"slide","id":"Slide13525"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":13875,"isQuizSlide":false,"label":"Sequence 1 review","slideVisited":false,"type":"slide","id":"Slide13875"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11174,"isQuizSlide":false,"label":"Review","slideVisited":false,"type":"slide","id":"Slide11174"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":12780,"isQuizSlide":false,"label":"Review 2","slideVisited":false,"type":"slide","id":"Slide12780"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":4563,"isQuizSlide":true,"label":"Multiple choice 1","slideVisited":false,"type":"slide","id":"Slide4563"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5153,"isQuizSlide":true,"label":"Multiple choice 2","slideVisited":false,"type":"slide","id":"Slide5153"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":7045,"isQuizSlide":true,"label":"Sequence 1","slideVisited":false,"type":"slide","id":"Slide7045"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3180,"isQuizSlide":false,"label":"Master Slide - 6","slideVisited":false,"type":"slide","id":"Slide3180"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3156,"isQuizSlide":false,"label":"Obj-2","slideVisited":false,"type":"slide","id":"Slide3156"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3132,"isQuizSlide":false,"label":"Master Slide - 4","slideVisited":false,"type":"slide","id":"Slide3132"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3084,"isQuizSlide":false,"label":"Master Slide - 2","slideVisited":false,"type":"slide","id":"Slide3084"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11045,"isQuizSlide":false,"label":"Slide exit","slideVisited":false,"type":"slide","id":"Slide11045"},{"parentId":null,"isVisible":true,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":4858,"isQuizSlide":true,"label":"Result 1","slideVisited":false,"type":"slide","id":"Slide4858"}],"tocGeneratedOnPreviewClick":false,"preserveSlidesOrder":true},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":false,"isShowTooltipsEnabled":true,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
 },
 usedFonts:{
 usedFonts:'["Arial","Georgia"]'
@@ -93482,7 +93482,7 @@ resources:['ar/11052.mp3']
 ,{
 slideID:6,
 ResourceList:{
-resources:['ar/StAd14.mp3']
+resources:['ar/StAd25.mp3']
 }
 
 }
@@ -93510,7 +93510,7 @@ resources:['ar/14569.mp3']
 ,{
 slideID:18,
 ResourceList:{
-resources:['ar/StAd20.mp3']
+resources:['ar/StAd31.mp3']
 }
 
 }
@@ -93526,11 +93526,11 @@ cp.model.audios=[
 'ar/11046.mp3',
 'ar/11049.mp3',
 'ar/11052.mp3',
-'ar/StAd14.mp3',
+'ar/StAd25.mp3',
 'ar/11123.mp3',
 'ar/12769.mp3',
 'ar/14569.mp3',
-'ar/StAd20.mp3'
+'ar/StAd31.mp3'
 ];
 
 cp.initVariables = function(){
@@ -93551,7 +93551,7 @@ cp.cv('Project.CurrentSlideName','slide',1,15,0);
 cp.cv('Project.CurrentSlideNumber',1,1,15,0);
 cp.cv('Project.LockTOC',0,1,15,0);
 cp.cv('Project.MuteAudio',0,1,15,0);
-cp.cv('Project.ShowPlaybar',1,1,15,0);
+cp.cv('Project.ShowPlaybar',0,1,15,0);
 cp.cv('Project.ShowTOC',0,1,15,0);
 cp.cv('Project.SlideCount',1,1,15,0);
 cp.cv('Question.AnswerChoice','',1,15,0);
